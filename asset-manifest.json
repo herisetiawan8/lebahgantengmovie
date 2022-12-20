@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lebahgantengmovie/static/css/main.26f740bd.css",
+    "main.js": "/lebahgantengmovie/static/js/main.3c3c74a2.js",
+    "static/js/787.a9d9e5bd.chunk.js": "/lebahgantengmovie/static/js/787.a9d9e5bd.chunk.js",
+    "index.html": "/lebahgantengmovie/index.html",
+    "main.26f740bd.css.map": "/lebahgantengmovie/static/css/main.26f740bd.css.map",
+    "main.3c3c74a2.js.map": "/lebahgantengmovie/static/js/main.3c3c74a2.js.map",
+    "787.a9d9e5bd.chunk.js.map": "/lebahgantengmovie/static/js/787.a9d9e5bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26f740bd.css",
+    "static/js/main.3c3c74a2.js"
+  ]
+}
